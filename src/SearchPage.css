@@ -1,0 +1,25 @@
+.searchPage__info {
+    padding: 20px;
+}
+.searchPage__info > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.searchPage__info > h1 {
+    margin-bottom: 30px;
+}
+
+.searchPage__info > button {
+    height: 40px;
+    min-width: 70px;
+    border-radius: 20px;
+    margin: 5px;
+    text-transform: inherit;
+    background-color: white;
+    font-weight: 600;
+    border-color: lightgray;
+}
+.searchPage__info > button:active{
+    background-color: lightgray;
+}
